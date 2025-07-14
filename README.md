@@ -1,2 +1,12 @@
-# test-cmd3c3mkk0-3b159f7a-1752511528041
-Temporary repository for test cmd3c3mkk0001unxc68ptdt1r by user 3b159f7a-2ed9-40ac-85f1-4e013cbbcdf4
+# Task Management App
+
+A simple task management application built with React.
+
+## Setup
+
+1.  Install dependencies: `npm install`
+2.  Start the development server: `npm start`
+
+## Running Tests
+
+`npm test`
